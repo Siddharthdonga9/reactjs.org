@@ -8,7 +8,8 @@ permalink: docs/profiler.html
 
 The `Profiler` measures how often a React application renders and what the "cost" of rendering is.
 Its purpose is to help identify parts of an application that are slow and may benefit from [optimizations such as memoization](/docs/hooks-faq.html#how-to-memoize-calculations).
-
+ dfbjkasfh '
+ { "hello world"}
 > Note:
 >
 > Profiling adds some additional overhead, so **it is disabled in [the production build](/docs/optimizing-performance.html#use-the-production-build)**.
